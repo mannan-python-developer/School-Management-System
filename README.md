@@ -16,7 +16,7 @@ This is a simple School Management System implemented using PyQt5 and SQLite for
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mannan258/School-Management-System.git
+   git clone https://github.com/mannan-python-developer/School-Management-System.git
    cd School-Management-System
 
 2. **Install Dependencies:**
